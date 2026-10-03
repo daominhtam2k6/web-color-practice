@@ -1,0 +1,79 @@
+﻿
+/* ==========================================================
+   BAI THUC HANH PHOI MAU DON TONG - BLUE
+   Mau chinh: #00ADEE
+   ========================================================== */
+
+html,
+body {
+    background-color: #00BFF2 !important;
+    color: #000000 !important;
+}
+
+/* Header */
+header,
+.header,
+#header {
+    background-color: #00ADEE !important;
+    color: #000000 !important;
+}
+
+/* Navigation */
+nav,
+.nav,
+.navbar,
+.menu {
+    background-color: #00B2EF !important;
+}
+
+/* Noi dung */
+main,
+.main,
+.content,
+#content,
+section,
+article {
+    background-color: #8DD7F7 !important;
+    color: #000000 !important;
+}
+
+/* ON SALE / PREVIEW */
+.sale,
+.on-sale,
+.onsale,
+.preview,
+.sale-box,
+[class*="sale"],
+[class*="preview"] {
+    background-color: #00ADEE !important;
+    color: #000000 !important;
+}
+
+/* Footer */
+footer,
+.footer,
+#footer {
+    background-color: #C6E9FA !important;
+    color: #000000 !important;
+}
+
+/* Mau chu */
+body,
+p,
+span,
+div,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+li {
+    color: #000000;
+}
+
+/* Link */
+a {
+    color: #000000;
+}
+
